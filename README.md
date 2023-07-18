@@ -1,5 +1,5 @@
 # TF-GPT
-A TensorFlow implementation of GPT. It implements a stack of decoder blocks for autoregressive text generation, allowing you to make your own foundation models and (smaller) LLMs.
+A TensorFlow implementation of GPT. It implements a stack of decoder blocks for autoregressive text generation, allowing you to train your own foundation models and (smaller) LLMs.
 
 ## Usage
 
